@@ -1,2 +1,2 @@
 # angadi-native
-phone gap app of angai
+1.Edited by Raghu 06/21.
